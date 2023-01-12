@@ -6,9 +6,22 @@ The objective of the DT frontend code challenge is to create a UI which matches 
 
 <img src="example.png" alt="example" width="400"/>
 
-The code challenge UI you create should consist of static html and CSS/LESS updates to the files included in the repo.  We are looking for attention to detail and code quality.
+The code challenge UI you create should consist of static html and CSS/LESS updates to the files included in the repo.  
+
+We are looking for attention to detail and code quality.
 
 To run the code challenge you will need a version of node installed >=12.0.0.
+
+### Extra credit
+
+If you really want to show us what you can do, for extra credit, implement the following:
+
+1. Make all fields required and disable the Next button until all fields are filled in.
+2. Implement a date picker that only allows you to pick a date within the last 18 years for input 3.
+3. Show on screen validation messages when you blur each field, or when the Next button is clicked.
+4. Unit test all of the above.
+
+*Please do not feel like you HAVE to implement the extra credit items.**
 
 Getting started
 ---------------
