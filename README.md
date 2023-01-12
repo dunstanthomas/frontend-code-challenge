@@ -21,7 +21,7 @@ If you really want to show us what you can do, for extra credit, implement the f
 3. Show on screen validation messages when you blur each field, or when the Next button is clicked.
 4. Unit test all of the above.
 
-*Please do not feel like you HAVE to implement the extra credit items.**
+*Please do not feel like you HAVE to implement the extra credit items.*
 
 Getting started
 ---------------
