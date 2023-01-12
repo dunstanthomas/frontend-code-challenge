@@ -15,7 +15,9 @@ Getting started
 
 ### Initial setup
 
-Click here to **[Fork](https://github.com/dunstanthomas/frontend-code-challenge/fork)** this repo, pull down your fork to your dev machine and then run the following commands in a terminal at the repo root:
+Click here to **[Fork](https://github.com/dunstanthomas/frontend-code-challenge/fork)** this repo, pull down your fork to your dev machine or you can use a GitHub codespace and do everything in your browser.
+
+Once you have dev environment (local or the cloud) run the following commands in a terminal at the repo root:
 
 ```bash
 npm install
