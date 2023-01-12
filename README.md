@@ -15,7 +15,7 @@ Getting started
 
 ### Initial setup
 
-Click here to **[Fork](https://github.com/dunstanthomas/frontend-code-challenge/fork)** this repo, pull down your fork to your dev machine or you can use a GitHub codespace and do everything in your browser.
+Click here to **[Fork](https://github.com/dunstanthomas/frontend-code-challenge/fork)** this repo, pull down your fork to your dev machine or you can use a GitHub codespace and do everything in your browser (just make sure you do your changes on your fork and not on our main branch.)
 
 Once you have dev environment (local or the cloud) run the following commands in a terminal at the repo root:
 
